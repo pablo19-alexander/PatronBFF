@@ -145,3 +145,12 @@ secrets.json
 # - .github/ SE versiona (workflows de CI/CD).
 # - PatronBFF/ es un repo independiente; gestionarlo aparte si se quiere.
 # =============================================================================
+
+# =============================================================================
+# Python (backend PatronBFF/)
+# =============================================================================
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
